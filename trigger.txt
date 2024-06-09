@@ -1,1 +1,1 @@
-whyour/qinglong:latest registry.cn-hangzhou.aliyuncs.com/hg_jx/whyour/qinglong:latest
+whyour/qinglong:2.17.5 registry.cn-hangzhou.aliyuncs.com/hg_jx/whyour/qinglong:2.17.5
