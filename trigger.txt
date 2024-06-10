@@ -1,1 +1,1 @@
-whyour/qinglong:2.17.5 registry.cn-hangzhou.aliyuncs.com/hg_jx/qinglong:2.17.5
+jellyfin/jellyfin:2024061005 registry.cn-hangzhou.aliyuncs.com/hg_jx/jellyfin:2024061005
