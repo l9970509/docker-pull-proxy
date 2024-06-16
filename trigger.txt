@@ -1,1 +1,1 @@
-xhofe/alist:latest registry.cn-hangzhou.aliyuncs.com/hg_jx/alist:latest
+moelin/1panel:latest registry.cn-hangzhou.aliyuncs.com/hg_jx/1panel:latest
