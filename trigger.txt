@@ -1,1 +1,1 @@
-jellyfin/jellyfin:2024061005 registry.cn-hangzhou.aliyuncs.com/hg_jx/jellyfin:2024061005
+xhofe/alist:latest registry.cn-hangzhou.aliyuncs.com/hg_jx/xhofe/alist:latest
