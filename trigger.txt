@@ -1,1 +1,1 @@
-tailscale/tailscale:latest registry.cn-hangzhou.aliyuncs.com/hg_jx/tailscale:latest
+bestoray/pgyvpn:latest registry.cn-hangzhou.aliyuncs.com/hg_jx/pgyvpn:latest
