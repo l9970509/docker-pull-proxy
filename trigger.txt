@@ -1,1 +1,1 @@
-bestoray/pgyvpn:latest registry.cn-hangzhou.aliyuncs.com/hg_jx/pgyvpn:latest
+joinsunsoft/docker.ui:latest registry.cn-hangzhou.aliyuncs.com/hg_jx/docker.ui:latest
