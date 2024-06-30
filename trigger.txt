@@ -1,1 +1,1 @@
-joinsunsoft/docker.ui:latest registry.cn-hangzhou.aliyuncs.com/hg_jx/docker.ui:latest
+hslr/sun-panel:latest registry.cn-hangzhou.aliyuncs.com/hg_jx/sun-panel:latest
