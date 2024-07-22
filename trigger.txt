@@ -1,1 +1,1 @@
-hslr/sun-panel:latest registry.cn-hangzhou.aliyuncs.com/hg_jx/sun-panel:latest
+cnk3x/xunlei:3.20.1 registry.cn-hangzhou.aliyuncs.com/hg_jx/xunlei:3.20.1
