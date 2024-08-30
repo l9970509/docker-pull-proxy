@@ -1,1 +1,1 @@
-xhofe/alist:latest registry.cn-hangzhou.aliyuncs.com/hg_jx/alist:latest
+p3terx/ariang:latest registry.cn-hangzhou.aliyuncs.com/hg_jx/ariang:latest
