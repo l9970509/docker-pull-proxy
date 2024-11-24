@@ -1,1 +1,1 @@
-p3terx/aria2-pro:test registry.cn-hangzhou.aliyuncs.com/hg_jx/aria2-pro:test
+whyour/qinglong:latest registry.cn-hangzhou.aliyuncs.com/hg_jx/qinglong:latest
