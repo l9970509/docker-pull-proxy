@@ -1,1 +1,1 @@
-icepage/aujc:latest registry.cn-hangzhou.aliyuncs.com/hg_jx/aujc:latest
+cnk3x/xunlei:latest registry.cn-hangzhou.aliyuncs.com/hg_jx/xunlei:latest
