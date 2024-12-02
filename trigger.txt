@@ -1,1 +1,1 @@
-cnk3x/xunlei:latest registry.cn-hangzhou.aliyuncs.com/hg_jx/xunlei:latest
+ricwang/docker-wechat:latest registry.cn-hangzhou.aliyuncs.com/hg_jx/docker-wechat:latest
