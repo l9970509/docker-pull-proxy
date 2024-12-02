@@ -1,1 +1,1 @@
-ricwang/docker-wechat:latest registry.cn-hangzhou.aliyuncs.com/hg_jx/docker-wechat:latest
+bestwu/wechat:latest registry.cn-hangzhou.aliyuncs.com/hg_jx/wechat:latest
