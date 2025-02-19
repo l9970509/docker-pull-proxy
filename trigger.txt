@@ -1,1 +1,1 @@
-youshandefeiyang/allinone:latest registry.cn-hangzhou.aliyuncs.com/hg_jx/youshandefeiyang/allinone:latest
+cnk3x_xunlei:latest registry.cn-hangzhou.aliyuncs.com/hg_jx/youshandefeiyang/cnk3x_xunlei:latest
